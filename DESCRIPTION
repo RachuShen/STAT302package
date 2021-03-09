@@ -1,0 +1,14 @@
+Package: STAT302package
+Title: Package Building Practice
+Version: 0.1.0
+Authors@R: 
+    person(given = "Weiqiao",
+           family = "Shen",
+           role = c("aut", "cre"),
+           email = "shenw9@uw.edu")
+Description: This package is the package building homework for STAT302 at UW.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
